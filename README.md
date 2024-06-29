@@ -1,7 +1,7 @@
 # Churn-Risk-Analysis-with-RFM
 
 ## Overview
-This project uses RFM (Recency, Frequency, Monetary) analysis to identify customers at risk of churning. By analyzing customer purchase behavior, we can segment customers, uncover demographic insights, and develop strategies to re-engage those at risk, ultimately aiming to enhance customer retention and drive business growth.
+In this project I used RFM (Recency, Frequency, Monetary) analysis for customer segmentation and to identify customers at risk of churning. By analyzing customer purchase behavior, I was able to segment customers, uncover demographic insights, and develop strategies to re-engage those at risk of churn, ultimately aiming to enhance customer retention and drive business growth.
 
 ## Methodology
 - Data Gathering
@@ -12,5 +12,5 @@ This project uses RFM (Recency, Frequency, Monetary) analysis to identify custom
 
 ## Tools Used
 - Postgresql
-- Looker studio
+- Looker studio for visualization
 
